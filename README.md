@@ -70,7 +70,7 @@ log2((Tumor – Normal) / Normal)
 
 -Determination of whether expression is higher in Tumor or Normal samples
 
---Visualizations
+## Visualizations
 
 -Histogram of DEGs by chromosome
 
