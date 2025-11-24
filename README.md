@@ -14,7 +14,7 @@ Gene_Information.csv — Gene metadata (symbols, loci, chromosome, etc.)
 
 Sample_Information.tsv — Sample phenotype labels
 
-assignment3_R_script.R — R script containing all analysis steps
+R_SCRIPT_ADVANCED.R — R script containing all analysis steps
 
 ## Required packages
 readxl – Load Excel data
