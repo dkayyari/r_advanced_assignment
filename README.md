@@ -38,7 +38,7 @@ pheatmap – Heatmap + clustermap visualization
 
 3.Place all required files in the same directory
 
-4.Open the script assignment3_R_script.R
+4.Open the script R_SCRIPT_ADVANCED.R
 
 5.Set working directory:
 Ctrl + Shift + Enter
